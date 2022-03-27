@@ -1,0 +1,17 @@
+[
+	{ "s": "PACIENTE", "p": [17] },
+	{ "s": "PACIENTES", "p": [6, 5, 4] },
+	{ "s": "PAGOS", "p": [23, 22] },
+	{ "s": "PALABRA", "p": [8, 2] },
+	{ "s": "PARA", "p": [18, 8, 2] },
+	{ "s": "PENDIENTES", "p": [8, 2] },
+	{ "s": "PODER", "p": [18] },
+	{ "s": "PRECIO", "p": [19] },
+	{ "s": "PRESIONAR", "p": [18] },
+	{ "s": "PRINCIPAL", "p": [1] },
+	{ "s": "PRODUCTO", "p": [19, 18] },
+	{ "s": "PRODUCTOS", "p": [14, 13, 12] },
+	{ "s": "PROYECTO", "p": [1] },
+	{ "s": "PULSAR", "p": [14] },
+	{ "s": "PÁGINA", "p": [1] }
+]
